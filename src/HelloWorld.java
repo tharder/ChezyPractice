@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Tavio Pela\n");
 		System.out.println("Bianca Bondoc\n");
 		System.out.println("Michael Iovine\n");
+		System.out.println("Ronan Konishi\n");
 	}
 
 }
